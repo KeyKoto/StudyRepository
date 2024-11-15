@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eeed1-c739-40f0-8b7f-adcf31715c34" name="Changes" comment="Task 6 from https://code.mu/ru/python/tasker/stager/1/1/">
-      <change afterPath="$PROJECT_DIR$/Task 1.2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1.1.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1.1.5.py" afterDir="false" />
-    </list>
+    <list default="true" id="184eeed1-c739-40f0-8b7f-adcf31715c34" name="Changes" comment="Task 6 from https://code.mu/ru/python/tasker/stager/1/1/" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +40,9 @@
     &quot;accountId&quot;: &quot;e75126ee-773a-4fc1-85fd-b6a70d1a2ea4&quot;
   }
 }</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2otQSqLQomrUyaly3kgUGa2Iz0P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
