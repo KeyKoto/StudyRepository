@@ -1,4 +1,4 @@
-#Пузырьковая сортировка.
+#Сортировка выбором.
 import random
 
 array_size = random.randint(5,10)
