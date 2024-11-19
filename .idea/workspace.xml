@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eeed1-c739-40f0-8b7f-adcf31715c34" name="Changes" comment="Task 6 from https://code.mu/ru/python/tasker/stager/1/1/" />
+    <list default="true" id="184eeed1-c739-40f0-8b7f-adcf31715c34" name="Changes" comment="Сортировка пузырьком.">
+      <change afterPath="$PROJECT_DIR$/Сортировка_пузырьком.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сортировка.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,23 +44,33 @@
     &quot;accountId&quot;: &quot;e75126ee-773a-4fc1-85fd-b6a70d1a2ea4&quot;
   }
 }</component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2otQSqLQomrUyaly3kgUGa2Iz0P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Task 1.1.executor": "Run",
-    "Python.Task 6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Puk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortirovka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Сортировка.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79636/Desktop/Study/pythonProject&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\79636\Desktop\Study\pythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +95,39 @@
       <option name="project" value="LOCAL" />
       <updated>1731689688283</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Нахождение минимального числа в рандомном массиве.">
+      <option name="closed" value="true" />
+      <created>1731693247028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693247028</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Нахождение минимального числа в рандомном массиве.">
+      <option name="closed" value="true" />
+      <created>1731953009635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731953009635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Пузырьковая сортировка.">
+      <option name="closed" value="true" />
+      <created>1731953985116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731953985116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Сортировка выбором.">
+      <option name="closed" value="true" />
+      <created>1731954235873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731954235873</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +163,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First try of Git" />
     <MESSAGE value="Task 6 from https://code.mu/ru/python/tasker/stager/1/1/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 6 from https://code.mu/ru/python/tasker/stager/1/1/" />
+    <MESSAGE value="Нахождение минимального числа в рандомном массиве." />
+    <MESSAGE value="Пузырьковая сортировка." />
+    <MESSAGE value="Сортировка выбором." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сортировка выбором." />
   </component>
 </project>
