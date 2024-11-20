@@ -27,8 +27,8 @@ while len > 0:
     array[len] = max
     array[id_max] = intForChanging
     len -= 1
+    len -= 1
     max = array[0]
     counter = 0
     i = len
 print(array)
-
