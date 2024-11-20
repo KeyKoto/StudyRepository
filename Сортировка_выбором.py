@@ -10,7 +10,6 @@ intForChanging = 0
 
 len = len - 1
 i = len
-counter = 0
 
 while len > 0:
     max = array[0]
